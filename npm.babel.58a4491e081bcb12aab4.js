@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkonemain_ui_exercise=self.webpackChunkonemain_ui_exercise||[]).push([[976],{"+9dH":(e,n,r)=>{function i(){return i=Object.assign?Object.assign.bind():function(e){for(var n=1;n<arguments.length;n++){var r=arguments[n];for(var i in r)Object.prototype.hasOwnProperty.call(r,i)&&(e[i]=r[i])}return e},i.apply(this,arguments)}r.d(n,{A:()=>i})}}]);
+//# sourceMappingURL=npm.babel.58a4491e081bcb12aab4.js.map
